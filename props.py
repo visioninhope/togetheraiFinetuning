@@ -8,4 +8,4 @@ LEARNING_RATE = 2e-5
 FINETUNED_LLM_SUFFIX = 'farranmedia-llm-test-1'
 
 WANDB_API_KEY = open(r'C:\Secret\wandb_api_key.txt').read().strip()
-WANDB_URL = 'https://wandb.ai/<username>/together?workspace=user-<username>'
+# WANDB_URL = 'https://wandb.ai/rwfarran/together?workspace=user-rwfarran'
